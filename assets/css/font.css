@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: 'corm';
+  src: url(../fonts/CormorantInfant-Medium.woff) format('woff');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/Poppins-Regular.woff) format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'poppins';
+  src: url(../fonts/Poppins-Medium.woff) format('woff');
+  font-weight: 500;
+}
